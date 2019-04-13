@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://jsonplaceholder.typicode.com/",
+    "postid": "https://jsonplaceholder.typicode.com/posts/1",
+    "video": false
+  }
