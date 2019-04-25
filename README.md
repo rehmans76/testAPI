@@ -1,0 +1,4 @@
+Run tests with:
+npm run cy:open
+
+Bare minimum tests added for API with possible routes and to check we get valid response for each of those routes. Its my learning of Cyprus to test APIs. There is lot more enhancement which should be tested where like edge cases, negative cases. Also to check the contents within each call match to expected contents, also to update, patch, tags as well as body text. Also for API testing swagger document should have given more information on the capabilities of the API as well as discussion within development team, would have been deciding factor on tests. I would also like to load tests API as well as do performance testing to make sure that API can work as expected.
